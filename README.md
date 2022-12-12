@@ -1,4 +1,4 @@
-# Flask-html-temp-upload-img
+# Setup
 
 1- Create Virtual Environment
 
@@ -12,7 +12,9 @@ $ source venv/bin/activate
 $ pip install flask
 
 4- Install requienments file
+
 $ pip install -r requirements.txt
 
 5- Run Flask
+
 $ flask run
